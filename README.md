@@ -13,7 +13,6 @@ Start with the math basics! Focus only on Linear Algebra, Calculus, Probability 
   ## 1.1 Linear Algebra
   * [3Blue1Brown - Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/)
   * [MIT 18.06 Linear Algebra, Prof. Gilbert Strang](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
-  * [MIT 18.06 Linear Algebra, Prof. Gilbert Strang](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
   
   ## 1.2 Calculus
   * [3Blue1Brown - Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
@@ -61,7 +60,7 @@ Continue learning the following topics below
 * [Deep Learning - IIT Madras B.S. Degree](https://www.youtube.com/playlist?list=PLZ2ps__7DhBZVxMrSkTIcG6zZBDKUXCnM)
 * [Become proficient in Deep Learning by Andrej Karpathy's Zero to Hero series:](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 * [Full Stack Deep Learning](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv)
-* [DeepMind x UCL | Deep Learning Lecture Series](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
+* [DeepMind x UCL - Deep Learning Lecture Series 2021](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 * [Optional: NYU Deep Learning lecture series by **Yann LeCun**](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
 
     ### Hands on Deep Learning
@@ -90,23 +89,28 @@ Continue learning the following topics below
 * [LLM Agents - Berkley RDI center](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc)
 
 ## 10. MLOPs
-* [Deep Learning.AI ML Engineering for Production MLOPs](https://www.youtube.com/playlist?list=PLVd1sFtZgLA7gPFPB8nPVEgOG1a5BkmSR)
+* [deeplearning.ai ML Engineering for Production MLOPs](https://www.youtube.com/playlist?list=PLVd1sFtZgLA7gPFPB8nPVEgOG1a5BkmSR)
 
 ## 11. Deep Generative Models
 * [IISC Dr.Prathosh Ap - Deep Generataive Models](https://www.youtube.com/playlist?list=PLL1s8qiaGy0LwIajdxKZr_FRL7KZeQK9r)
 
 ## 12. Computer Vision
-* [Lecture Collection | Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+* [Convolutional Neural Networks for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 ## 13. Reinforcement Learning
 * [Reinforcement Learning](https://www.youtube.com/playlist?list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua)
-* [DeepMind x UCL | Introduction to Reinforcement Learning] (https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+* [DeepMind x UCL Introduction to Reinforcement Learning, by David Silver] (https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
 * [Stanford CS234 : Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
   ### Deep Reinforcement Learning
-  - [Deep Reinforcement Learning (UC Berkeley): CS 285 Fall 2021 ](https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH)
-  - [Deep Unsupervised Learning (UC Berkeley)] (https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
+  - [Deep Reinforcement Learning x UC Berkeley: CS 285 Fall 2021 ](https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH)
+  - [Deep Unsupervised Learning x UC Berkeley] (https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
 
 ## 14. Machine Learning with Graphs
 * [Stanford CS224W: Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 
+## Other Interesting Topics
+* [Group Equivariant Deep Learning by Erik Bekkers, UvA - 2022](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd)
+
+## Recommended Books
+* [Deep learning - Ian Goodfellow book Companion videos](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b)
