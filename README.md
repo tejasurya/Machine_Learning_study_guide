@@ -77,17 +77,17 @@ Continue learning the following topics below
 * [NLP practice Beginner - Hand's on](https://www.youtube.com/playlist?list=PLAMHV77MSKJ4Z4OXqao1gRdfQK7VQYAXb) 
       
 ## 9. Transformers, LLM
-      ## 9.1 Transformers 
-      * [Illustrated Transformer - Jay Allamar](https://jalammar.github.io/illustrated-transformer/)
-      * [Transformers United - Stanford CS25](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
-      * [The Illustrated Retrieval Transformer](https://jalammar.github.io/illustrated-retrieval-transformer/)
+### 9.1 Transformers 
+* [Illustrated Transformer - Jay Allamar](https://jalammar.github.io/illustrated-transformer/)
+* [Transformers United - Stanford CS25](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+* [The Illustrated Retrieval Transformer](https://jalammar.github.io/illustrated-retrieval-transformer/)
       
-      ## 9.2 LLM 
-      * [Intro to LLM - Andrej Karpathy] (https://www.youtube.com/watch?v=zjkBMFhNj_g)
-      * [Let's build GPT: from scratch, in code, spelled out - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)
-      * [Deep Dive into LLMs like ChatGPT - Andrej Karpathy](https://www.youtube.com/watch?v=7xTGNNLPyMI)
-      * [Serrano Academy](https://www.youtube.com/playlist?list=PLs8w1Cdi-zva4fwKkl9EK13siFvL9Wewf)
-      * [LLM Agents - Berkley RDI center](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc)
+### 9.2 LLM 
+* [Intro to LLM - Andrej Karpathy] (https://www.youtube.com/watch?v=zjkBMFhNj_g)
+* [Let's build GPT: from scratch, in code, spelled out - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+* [Deep Dive into LLMs like ChatGPT - Andrej Karpathy](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+* [Serrano Academy](https://www.youtube.com/playlist?list=PLs8w1Cdi-zva4fwKkl9EK13siFvL9Wewf)
+* [LLM Agents - Berkley RDI center](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc)
 
 ## 10. MLOPs
 * [Deep Learning.AI ML Engineering for Production MLOPs](https://www.youtube.com/playlist?list=PLVd1sFtZgLA7gPFPB8nPVEgOG1a5BkmSR)
