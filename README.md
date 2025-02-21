@@ -1,5 +1,7 @@
 # ML_Study_Guide
 
+This is a Navigational Marine Map to learn ML from Basic to Advanced.
+
 # How to get started with ML
 Follow steps 1 -6
 
@@ -9,17 +11,17 @@ This is an Marine Map to learn ML from Basic to Advanced.
 
 Start with the math basics! Focus only on Linear Algebra, Calculus, Probability and Statistics
   ## 1.1 Linear Algebra
-      * [3Blue1Brown - Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/)
-      * [MIT 18.06 Linear Algebra, Prof. Gilbert Strang](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
-      * [MIT 18.06 Linear Algebra, Prof. Gilbert Strang](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+  * [3Blue1Brown - Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/)
+  * [MIT 18.06 Linear Algebra, Prof. Gilbert Strang](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+  * [MIT 18.06 Linear Algebra, Prof. Gilbert Strang](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
   
   ## 1.2 Calculus
-      * [3Blue1Brown - Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-      * [Calculus Visualized](https://www.youtube.com/watch?v=MO-AExWdl4Q&list=PLZ959LONyLHwH6jQNzrC5J43kRueF4LO3&index=5)
+  * [3Blue1Brown - Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+  * [Calculus Visualized](https://www.youtube.com/watch?v=MO-AExWdl4Q&list=PLZ959LONyLHwH6jQNzrC5J43kRueF4LO3&index=5)
   
   ## 1.3 Probability and Statistics
-      * [Harvard Univ - Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)   
-      * [Probability Theory](https://www.youtube.com/playlist?list=PLBh2i93oe2qtmWsYpx0NarbeahMJvhRj0)
+  * [Harvard Univ - Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)   
+  * [Probability Theory](https://www.youtube.com/playlist?list=PLBh2i93oe2qtmWsYpx0NarbeahMJvhRj0)
 
 ## 2. Learn Python
 
@@ -64,12 +66,11 @@ Continue learning the following topics below
 
     ### Hands on Deep Learning
         ### PyTorch
-             * [PyTorch Tutorials - Beginner ](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
-             * [Learn PyTorch in 25 hours - Daniel Bourke](https://youtu.be/Z_ikDlimN6A?feature=shared)
-             * [PyTorch tutoriaals](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
+        * [PyTorch Tutorials - Beginner ](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
+        * [Learn PyTorch in 25 hours - Daniel Bourke](https://youtu.be/Z_ikDlimN6A?feature=shared)
+        * [PyTorch tutoriaals](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
               
-        
-## 8. Natural Language Processing
+## 8. Natural Language Processing (NLP)
 * [CMU Advanced NLP Spring 2025](https://www.youtube.com/playlist?list=PLqC25OT8ZpD3WxQ0FwWMGPS_BcWdcKyZy)
 * [CMU Advanced NLP Spring 2024](https://www.youtube.com/playlist?list=PL8PYTP1V4I8DZprnWryM4nR8IZl1ZXDjg)
 * [Stanford CS224N: Natural Language Processing with Deep Learning - 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
@@ -77,16 +78,16 @@ Continue learning the following topics below
       
 ## 9. Transformers, LLM
       ## 9.1 Transformers 
-           * [Illustrated Transformer - Jay Allamar](https://jalammar.github.io/illustrated-transformer/)
-           * [Transformers United - Stanford CS25](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
-           * [The Illustrated Retrieval Transformer](https://jalammar.github.io/illustrated-retrieval-transformer/)
+      * [Illustrated Transformer - Jay Allamar](https://jalammar.github.io/illustrated-transformer/)
+      * [Transformers United - Stanford CS25](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+      * [The Illustrated Retrieval Transformer](https://jalammar.github.io/illustrated-retrieval-transformer/)
       
       ## 9.2 LLM 
-            * [Intro to LLM - Andrej Karpathy] (https://www.youtube.com/watch?v=zjkBMFhNj_g)
-            * [Let's build GPT: from scratch, in code, spelled out - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)
-            * [Deep Dive into LLMs like ChatGPT - Andrej Karpathy](https://www.youtube.com/watch?v=7xTGNNLPyMI)
-            * [Serrano Academy](https://www.youtube.com/playlist?list=PLs8w1Cdi-zva4fwKkl9EK13siFvL9Wewf)
-            * [LLM Agents - Berkley RDI center](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc)
+      * [Intro to LLM - Andrej Karpathy] (https://www.youtube.com/watch?v=zjkBMFhNj_g)
+      * [Let's build GPT: from scratch, in code, spelled out - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+      * [Deep Dive into LLMs like ChatGPT - Andrej Karpathy](https://www.youtube.com/watch?v=7xTGNNLPyMI)
+      * [Serrano Academy](https://www.youtube.com/playlist?list=PLs8w1Cdi-zva4fwKkl9EK13siFvL9Wewf)
+      * [LLM Agents - Berkley RDI center](https://www.youtube.com/playlist?list=PLS01nW3RtgopsNLeM936V4TNSsvvVglLc)
 
 ## 10. MLOPs
 * [Deep Learning.AI ML Engineering for Production MLOPs](https://www.youtube.com/playlist?list=PLVd1sFtZgLA7gPFPB8nPVEgOG1a5BkmSR)
