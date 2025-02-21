@@ -65,10 +65,10 @@ Continue learning the following topics below
 * [Optional: NYU Deep Learning lecture series by **Yann LeCun**](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
 
     ### Hands on Deep Learning
-        ### PyTorch
-        * [PyTorch Tutorials - Beginner ](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
-        * [Learn PyTorch in 25 hours - Daniel Bourke](https://youtu.be/Z_ikDlimN6A?feature=shared)
-        * [PyTorch tutoriaals](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
+    ### PyTorch
+    * [PyTorch Tutorials - Beginner ](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
+    * [Learn PyTorch in 25 hours - Daniel Bourke](https://youtu.be/Z_ikDlimN6A?feature=shared)
+    * [PyTorch tutoriaals](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
               
 ## 8. Natural Language Processing (NLP)
 * [CMU Advanced NLP Spring 2025](https://www.youtube.com/playlist?list=PLqC25OT8ZpD3WxQ0FwWMGPS_BcWdcKyZy)
@@ -103,9 +103,9 @@ Continue learning the following topics below
 * [DeepMind x UCL | Introduction to Reinforcement Learning] (https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 * [Stanford CS234 : Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
-        ### Deep Reinforcement Learning
-           - [Deep Reinforcement Learning (UC Berkeley): CS 285 Fall 2021 ](https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH)
-           - [Deep Unsupervised Learning (UC Berkeley)] (https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
+  ### Deep Reinforcement Learning
+  - [Deep Reinforcement Learning (UC Berkeley): CS 285 Fall 2021 ](https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH)
+  - [Deep Unsupervised Learning (UC Berkeley)] (https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
 
 ## 14. Machine Learning with Graphs
 * [Stanford CS224W: Machine Learning with Graphs](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
