@@ -46,7 +46,7 @@ Start with the math basics! Focus only on Linear Algebra, Calculus, Probability 
 * [Pattern Recognition, IISC by Prof. P.S. Sastry](https://www.youtube.com/playlist?list=PLbMVogVj5nJSlpmy0ni_5-RgbseafOViy)
 * [Applied Machine Learning (Cornell Tech CS 5787](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 * [Introduction to Machine Learning — Dmitry Kobak by Tubingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)
-      **XGBoost** - [XGBoost is all you need - Bojan Tunguz](https://www.xgblog.ai/)
+* **XGBoost** - [XGBoost is all you need - Bojan Tunguz](https://www.xgblog.ai/)
 
 ## 5. Hands-on Data Preparation
 
@@ -74,7 +74,7 @@ Continue learning the following topics below
     ### PyTorch
     * [PyTorch Tutorials - Beginner ](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
     * [Learn PyTorch in 25 hours - Daniel Bourke](https://youtu.be/Z_ikDlimN6A?feature=shared)
-    * [PyTorch tutoriaals](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
+    * [PyTorch tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
               
 ## 8. Natural Language Processing (NLP)
 * [CMU Advanced NLP Spring 2025](https://www.youtube.com/playlist?list=PLqC25OT8ZpD3WxQ0FwWMGPS_BcWdcKyZy)
@@ -100,6 +100,8 @@ Continue learning the following topics below
 
 ## 10. MLOPs
 * [deeplearning.ai ML Engineering for Production MLOPs](https://www.youtube.com/playlist?list=PLVd1sFtZgLA7gPFPB8nPVEgOG1a5BkmSR)
+* [Designing Machine Learning Systems - Chip Huyen](https://github.com/chiphuyen/dmls-book)
+* [MLOps resources - Github](https://github.com/kelvins/awesome-mlops)
 
 ## 11. Deep Generative Models
 * [IISC Dr.Prathosh Ap - Deep Generative Models](https://www.youtube.com/playlist?list=PLL1s8qiaGy0LwIajdxKZr_FRL7KZeQK9r)
