@@ -103,7 +103,7 @@ Continue learning the following topics below
 * [deeplearning.ai ML Engineering for Production MLOPs](https://www.youtube.com/playlist?list=PLVd1sFtZgLA7gPFPB8nPVEgOG1a5BkmSR)
 
 ## 11. Deep Generative Models
-* [IISC Dr.Prathosh Ap - Deep Generataive Models](https://www.youtube.com/playlist?list=PLL1s8qiaGy0LwIajdxKZr_FRL7KZeQK9r)
+* [IISC Dr.Prathosh Ap - Deep Generative Models](https://www.youtube.com/playlist?list=PLL1s8qiaGy0LwIajdxKZr_FRL7KZeQK9r)
 
 ## 12. Computer Vision
 * [CS231N Convolutional Neural Networks for Visual Recognition - Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
