@@ -1,8 +1,8 @@
-# ML_Study_Guide
+# Machine Learning study guide
 
 This is a Navigational Marine Map to learn ML from Basic to Advanced.
 
-# How to get started with ML
+## How to get started with ML
 Follow steps 1 -6
 
 This is an Marine Map to learn ML from Basic to Advanced.
