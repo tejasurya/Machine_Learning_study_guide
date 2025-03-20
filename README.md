@@ -22,9 +22,11 @@ Start with the math basics! Focus only on Linear Algebra, Calculus, Probability 
   * [Probability Theory for Beginners](https://www.youtube.com/playlist?list=PLBh2i93oe2qtmWsYpx0NarbeahMJvhRj0)
   * [Harvard Univ - Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
   * [MIT 18.650 Statistics for Applications](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
+  * [MIT OCW 6.041 Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
 
   ## 1.4 Optimization
   *  [Algorithms for Optimization - MIT Press](https://algorithmsbook.com/optimization/files/optimization.pdf)
+  *  [Optimization Theory and Algorithms IITM - Prof. Uday](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8XNc8SxMLbUxdR7lDSuIGw)
 
 ## 2. Learn Python
 
@@ -42,11 +44,14 @@ Start with the math basics! Focus only on Linear Algebra, Calculus, Probability 
 ## 4. Machine Learning Courses
 
 * [**BAM!** Machine Learning - StatQuest by Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+* __[Stanford CS229: Machine Learning Andrew NG](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)__   [Problems and Notes](https://github.com/maxim5/cs229-2018-autumn)
 * [Machine Learning Specialization Andrew Ng | Coursera](https://www.coursera.org/specializations/machine-learning-introduction) (3 Courses)
 * [Pattern Recognition, IISC by Prof. P.S. Sastry](https://www.youtube.com/playlist?list=PLbMVogVj5nJSlpmy0ni_5-RgbseafOViy)
 * [Applied Machine Learning (Cornell Tech CS 5787](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 * [Introduction to Machine Learning — Dmitry Kobak by Tubingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT)
 * **XGBoost** - [XGBoost is all you need - Bojan Tunguz](https://www.xgblog.ai/)
+* **[Machine Complete - Nyandwi](https://github.com/Nyandwi/machine_learning_complete)**
+**Reference Books**: PRML by Christopher Bishop and Pattern Classification by Duda, Hart
 
 ## 5. Hands-on Data Preparation
 
@@ -57,13 +62,12 @@ Start with the math basics! Focus only on Linear Algebra, Calculus, Probability 
 ## 6. Practice on Kaggle/ Build real world Projects
 
 Solve Challenges and build your own projects with datasets from [Kaggle.com](Kaggle.com).
-* [Tensorflow for Beginners](https://www.youtube.com/playlist?list=PLdxQ7SoCLQANQ9fQcJ0wnnTzkFsJHlWEj)
 Continue learning the following topics below
 
 ## 7. Deep Learning 
 * [3Blue1Brown - Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+* <ins>[Deep Learning - IIT Madras B.S. Degree](https://www.youtube.com/playlist?list=PLZ2ps__7DhBZVxMrSkTIcG6zZBDKUXCnM)</ins>
 * [**DOUBLE BAM!** Deep Learning by Josh Starmer from StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
-* [Deep Learning - IIT Madras B.S. Degree](https://www.youtube.com/playlist?list=PLZ2ps__7DhBZVxMrSkTIcG6zZBDKUXCnM)
 * [Become proficient in Deep Learning by Andrej Karpathy's Zero to Hero series:](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 * [Full Stack Deep Learning](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv)
 * [DeepMind x UCL - Deep Learning Lecture Series 2021](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
@@ -75,11 +79,16 @@ Continue learning the following topics below
     * [PyTorch Tutorials - Beginner ](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
     * [Learn PyTorch in 25 hours - Daniel Bourke](https://youtu.be/Z_ikDlimN6A?feature=shared)
     * [PyTorch tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
+
+    ### Tensorflow
+    * [TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk)
+    * 
               
 ## 8. Natural Language Processing (NLP)
+* [Stanford CS224N: Natural Language Processing with Deep Learning - 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+* [Stanford CS224N Course Notes](https://github.com/jaaack-wang/Notes-for-Stanford-CS224N-NLP-with-Deep-Learning) [Solutions](https://github.com/amanchadha/stanford-cs224n-assignments-2021)
 * [CMU Advanced NLP Spring 2025](https://www.youtube.com/playlist?list=PLqC25OT8ZpD3WxQ0FwWMGPS_BcWdcKyZy)
 * [CMU Advanced NLP Spring 2024](https://www.youtube.com/playlist?list=PL8PYTP1V4I8DZprnWryM4nR8IZl1ZXDjg)
-* [Stanford CS224N: Natural Language Processing with Deep Learning - 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 * [NLP practice Beginner - Hand's on](https://www.youtube.com/playlist?list=PLAMHV77MSKJ4Z4OXqao1gRdfQK7VQYAXb)
 * [NLP by Yannic Kilcher](https://www.youtube.com/playlist?list=PL1v8zpldgH3pQwRz1FORZdChMaNZaR3pu) 
       
@@ -107,13 +116,17 @@ Continue learning the following topics below
 * [IISC Dr.Prathosh Ap - Deep Generative Models](https://www.youtube.com/playlist?list=PLL1s8qiaGy0LwIajdxKZr_FRL7KZeQK9r)
 
 ## 12. Computer Vision
-* [CS231N Convolutional Neural Networks for Visual Recognition - Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+* [CS231N Convolutional Neural Networks for Visual Recognition - Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)[Course notes and problems-Github](https://github.com/jariasf/CS231n)
+* <ins>[Deep Computer Vision_Nyandwi](https://github.com/Nyandwi/deep-computer-vision)</ins> 
 * [CV by Yannic Kilcher](https://www.youtube.com/playlist?list=PL1v8zpldgH3o3007KRgX-HfNgWPHsIogL)
+**Reference Books** : __Deep Learning by Ian Goodfellow__
 
 ## 13. Reinforcement Learning
 * [Reinforcement Learning](https://www.youtube.com/playlist?list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua)
 * [DeepMind x UCL Introduction to Reinforcement Learning, by David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
-* [Stanford CS234 : Reinforcement Learning 2024](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX)
+* __[Stanford CS234 : Reinforcement Learning 2024](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX)__
+* __[CS221(Artificial Intelligence: Principles and Techniques) + RL](https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2)__ [Course notes](https://stanford-cs221.github.io/spring2022/)
+* __[CS234(Reinforcement Learning)](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)__ [Course notes anad Solutions](https://github.com/ksang/cs234-assignments)
 
   ### Deep Reinforcement Learning
   - [Deep Reinforcement Learning x UC Berkeley: CS 285 Fall 2021 ](https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH)
@@ -124,6 +137,12 @@ Continue learning the following topics below
 
 ## Other Interesting Topics
 * [Group Equivariant Deep Learning by Erik Bekkers, UvA - 2022](https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd)
+
+### Blogs to Follow
+* [Hugging Face Blog](https://huggingface.co/blog)
+* [Colah Github](https://colah.github.io/)
+* [Lilian weng Blog](https://lilianweng.github.io/)
+* [Keras Blog](https://blog.keras.io/)
 
 ## Recommended Books
 * [Deep learning - Ian Goodfellow book Companion videos](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b)
