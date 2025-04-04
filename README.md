@@ -99,6 +99,8 @@ Continue learning the following topics below
       
 ### 9.2 LLM 
 * [Intro to LLM - Andrej Karpathy](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+* [LLM - Tanmoy Chakraborthy](https://www.youtube.com/playlist?list=PLqGkIjcOyrGnjyBHl4GE2S9kX47X96FH-) [Introduction to Large Language Models Generative AI for Text](https://www.amazon.in/dp/936386474X?ref=cm_sw_r_ffobk_cso_cp_apin_dp_E0ZHV2H5SG3XWMENR8AD&ref_=cm_sw_r_ffobk_cso_cp_apin_dp_E0ZHV2H5SG3XWMENR8AD&social_share=cm_sw_r_ffobk_cso_cp_apin_dp_E0ZHV2H5SG3XWMENR8AD&bestFormat=true)
+* [IITM LLM course NPTEL -Dr.Mitesh Kapra](https://www.youtube.com/playlist?list=PLZ2ps__7DhBbaMNZoyW2Hizl8DG6ikkjo)
 * [Let's build GPT: from scratch, in code, spelled out - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 * [Deep Dive into LLMs like ChatGPT - Andrej Karpathy](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 * [LLM Visualization](https://bbycroft.net/llm)
