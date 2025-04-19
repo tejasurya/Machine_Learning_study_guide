@@ -84,7 +84,7 @@ Continue learning the following topics below
     * [TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial](https://www.youtube.com/watch?v=tPYj3fFJGjk)
               
 ## 8. Natural Language Processing (NLP)
-* [Stanford CS224N: Natural Language Processing with Deep Learning - 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+* [Stanford CS224N: Natural Language Processing with Deep Learning - 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) or [Stanford CS224N: Natural Language Processing with Deep Learning - 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D)
 * [Stanford CS224N Course Notes](https://github.com/jaaack-wang/Notes-for-Stanford-CS224N-NLP-with-Deep-Learning) [Solutions](https://github.com/amanchadha/stanford-cs224n-assignments-2021)
 * [CMU Advanced NLP Spring 2025](https://www.youtube.com/playlist?list=PLqC25OT8ZpD3WxQ0FwWMGPS_BcWdcKyZy)
 * [CMU Advanced NLP Spring 2024](https://www.youtube.com/playlist?list=PL8PYTP1V4I8DZprnWryM4nR8IZl1ZXDjg)
